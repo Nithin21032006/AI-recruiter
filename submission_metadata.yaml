@@ -16,7 +16,16 @@ primary_contact:
 team_members:
   - name: "Nithin D"
     email: "nithu210306@gmail.com"
-    role: "Team Lead"          # Solo participant or team lead
+    role: "Team Lead"
+  - name: "A R RAJATH"
+    email: "rajathshetty882@gmail.com"
+    role: "Member"
+  - name: "shilpa sri P G"
+    email: "shilpaofficial678@gmail.com"
+    role: "Member"
+  - name: "Aaditya Santosh Chaurasiya"
+    email: "aaditya.s.chaurasiya@gmail.com"
+    role: "Member"
 
 # ============================================================================
 # Code and reproducibility
