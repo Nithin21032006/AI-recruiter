@@ -1,0 +1,86 @@
+# Redrob Hackathon — Submission Metadata
+#
+# Filled in for Stage 3 validation review.
+# The fields here match what is submitted via the portal at upload time.
+
+# ============================================================================
+# Team identity
+# ============================================================================
+team_name: "Error 0"  # Used in leaderboard and announcements
+
+primary_contact:
+  name: "Nithin D"
+  email: "nithu210306@gmail.com" # Used for all organizer communication
+  phone: "+91-9113518838"        # Used for top-50 / top-10 outreach
+
+team_members:
+  - name: "Nithin D"
+    email: "nithu210306@gmail.com"
+    role: "Team Lead"          # Solo participant or team lead
+
+# ============================================================================
+# Code and reproducibility
+# ============================================================================
+github_repo: "https://github.com/Nithin21032006/AI-recruiter"
+# Required. Must be reachable. Private repos OK if you can grant organizer
+# access at Stage 3 (the email to add will be communicated then).
+
+sandbox_link: "https://nithu210306.github.io/AI_Recruiter/"
+# Required. A working hosted environment where the ranker can be run on a small
+# candidate sample. Hosted via GitHub Pages directly from the index.html page.
+
+reproduce_command: "python rank.py --candidates ./data/candidates.jsonl --out ./submission.csv"
+# The single command that produces submission.csv from candidates.jsonl.
+# Should run end-to-end within 5 minutes on CPU with 16GB RAM and no network.
+
+# ============================================================================
+# Compute environment
+# ============================================================================
+compute:
+  platform: "Local PC (Windows)"                # Or: "MacBook Pro M2", "AWS EC2 c5.4xlarge", etc.
+  cpu_cores: 8                                  # Number of CPU cores used
+  ram_gb: 16                                    # Available RAM in GB
+  python_version: "3.11.4"                      # python --version
+  os: "Windows 11"                              # Or "Ubuntu 22.04 LTS", etc.
+  uses_gpu_for_inference: false                 # Must be false — see compute constraints
+  has_network_during_ranking: false             # Must be false — no API calls during ranking
+  pre_computation_required: false               # true if you pre-compute embeddings or train models offline
+  pre_computation_time_minutes: 0               # Approximate, if applicable
+
+# ============================================================================
+# AI tools declaration
+# ============================================================================
+# Transparency only — declared use is NOT penalized. Be honest. Stage 5 interview
+# may verify these declarations against your code; declarations that contradict
+# your code or your interview are flagged.
+ai_tools_used:
+  - "Claude"        # e.g. for architecture discussion, code review
+  - "Gemini"        # e.g. for code edits, refactoring, and sandbox development
+  - "Other"         # Antigravity IDE agent for workspace restructuring
+
+ai_usage_summary: |
+  Used Gemini and Antigravity Agent to refactor and optimize the candidate ranking engine.
+  Developed custom honeypot-filtering rules based on the Redrob signals document.
+  Ported the python ranking engine to standard client-side browser Javascript to create
+  a zero-cost, serverless glassmorphic dashboard hosted on GitHub Pages for manual validation.
+
+# ============================================================================
+# Approach summary (optional but recommended)
+# ============================================================================
+methodology_summary: |
+  Deterministic rule-based and weighted scoring ranker running entirely locally on CPU.
+  Employs a cascading exclusion strategy: 7 honeypot-detection checks (filtering profile anomalies,
+  skill duration leaks, signup contradictions), title relevance validation, academic/consulting-only
+  history exclusions, and a weighted multi-dimensional score (Skills 40%, Experience 30%, Location 15%,
+  Notice Period 15%) modified by a behavioral trust multiplier (profile completeness, response rates,
+  recency of action, open-to-work flags). Processed 100K profiles in 22 seconds with <100MB RAM.
+
+# ============================================================================
+# Declarations
+# ============================================================================
+declarations:
+  read_submission_spec: true        # I have read submission_spec.md in full
+  code_is_original_work: true       # My code is my team's original work (using AI as a tool is fine)
+  no_collusion: true                # I have not coordinated my submission with other teams
+  honeypot_check_done: true         # OPTIONAL — set true if you explicitly checked for honeypots in your ranking
+  reproduction_tested: true         # I have tested that my reproduce_command runs end-to-end

@@ -1,0 +1,216 @@
+{
+  "CAND_0001610": [
+    "Profile experience is 3.0 years, but career history sums to 5.08 years"
+  ],
+  "CAND_0003582": [
+    "Skill MLflow has proficiency 'expert' but 0 duration_months",
+    "Skill Photoshop has proficiency 'expert' but 0 duration_months",
+    "Skill Content Writing has proficiency 'expert' but 0 duration_months"
+  ],
+  "CAND_0007353": [
+    "Job at Wayne Enterprises duration=166 > elapsed=34 (2023-09-10 to present)",
+    "Profile experience is 9.9 years, but career history sums to 20.92 years"
+  ],
+  "CAND_0008960": [
+    "Job at Stark Industries duration=171 > elapsed=22 (2024-09-04 to present)",
+    "Profile experience is 10.3 years, but career history sums to 22.58 years"
+  ],
+  "CAND_0010294": [
+    "Job at Mphasis duration=144 > elapsed=20 (2024-11-03 to present)",
+    "Profile experience is 8.0 years, but career history sums to 18.33 years"
+  ],
+  "CAND_0016000": [
+    "Skill TypeScript has proficiency 'expert' but 0 duration_months",
+    "Skill Go has proficiency 'expert' but 0 duration_months",
+    "Skill Docker has proficiency 'expert' but 0 duration_months",
+    "Skill Hadoop has proficiency 'expert' but 0 duration_months",
+    "Skill Photoshop has proficiency 'expert' but 0 duration_months"
+  ],
+  "CAND_0018515": [
+    "Job at Initech duration=150 > elapsed=40 (2023-03-14 to present)",
+    "Profile experience is 8.5 years, but career history sums to 17.58 years"
+  ],
+  "CAND_0019480": [
+    "Profile experience is 2.8 years, but career history sums to 7.25 years"
+  ],
+  "CAND_0033817": [
+    "Skill JavaScript has proficiency 'expert' but 0 duration_months",
+    "Skill BigQuery has proficiency 'expert' but 0 duration_months",
+    "Skill Six Sigma has proficiency 'expert' but 0 duration_months",
+    "Skill gRPC has proficiency 'expert' but 0 duration_months"
+  ],
+  "CAND_0033972": [
+    "Skill Airflow has proficiency 'expert' but 0 duration_months",
+    "Skill OpenCV has proficiency 'expert' but 0 duration_months",
+    "Skill Figma has proficiency 'expert' but 0 duration_months"
+  ],
+  "CAND_0035104": [
+    "Job at Cognizant duration=114 > elapsed=19 (2024-12-03 to present)",
+    "Profile experience is 5.5 years, but career history sums to 13.50 years"
+  ],
+  "CAND_0036839": [
+    "Skill SAP has proficiency 'expert' but 0 duration_months",
+    "Skill GCP has proficiency 'expert' but 0 duration_months",
+    "Skill Rust has proficiency 'expert' but 0 duration_months"
+  ],
+  "CAND_0037000": [
+    "Profile experience is 2.7 years, but career history sums to 6.25 years"
+  ],
+  "CAND_0037539": [
+    "Job at Stark Industries duration=106 > elapsed=50 (2022-05-18 to present)",
+    "Profile experience is 4.9 years, but career history sums to 9.58 years"
+  ],
+  "CAND_0040075": [
+    "Job at Pied Piper duration=228 > elapsed=40 (2023-03-14 to present)",
+    "Profile experience is 15.0 years, but career history sums to 30.42 years"
+  ],
+  "CAND_0040853": [
+    "Job at Initech duration=61 > elapsed=14 (2025-05-02 to present)",
+    "Profile experience is 1.1 years, but career history sums to 5.08 years"
+  ],
+  "CAND_0042245": [
+    "Skill Databricks has proficiency 'expert' but 0 duration_months",
+    "Skill BentoML has proficiency 'expert' but 0 duration_months",
+    "Skill Vue.js has proficiency 'expert' but 0 duration_months"
+  ],
+  "CAND_0042453": [
+    "Job at Pied Piper duration=98 > elapsed=51 (2022-04-18 to present)",
+    "Profile experience is 4.2 years, but career history sums to 8.17 years"
+  ],
+  "CAND_0043721": [
+    "Job at Initech duration=102 > elapsed=49 (2022-06-17 to present)",
+    "Profile experience is 4.5 years, but career history sums to 9.00 years"
+  ],
+  "CAND_0046649": [
+    "Skill SAP has proficiency 'expert' but 0 duration_months",
+    "Skill Node.js has proficiency 'expert' but 0 duration_months",
+    "Skill gRPC has proficiency 'expert' but 0 duration_months",
+    "Skill Flask has proficiency 'expert' but 0 duration_months",
+    "Skill Hadoop has proficiency 'expert' but 0 duration_months"
+  ],
+  "CAND_0046689": [
+    "Skill Node.js has proficiency 'expert' but 0 duration_months",
+    "Skill SQL has proficiency 'expert' but 0 duration_months",
+    "Skill gRPC has proficiency 'expert' but 0 duration_months",
+    "Skill Spark has proficiency 'expert' but 0 duration_months"
+  ],
+  "CAND_0048740": [
+    "Skill gRPC has proficiency 'expert' but 0 duration_months",
+    "Skill Angular has proficiency 'expert' but 0 duration_months",
+    "Skill Content Writing has proficiency 'expert' but 0 duration_months"
+  ],
+  "CAND_0053734": [
+    "Job at Globex Inc duration=151 > elapsed=33 (2023-10-10 to present)",
+    "Profile experience is 8.6 years, but career history sums to 18.42 years"
+  ],
+  "CAND_0055685": [
+    "Job at Acme Corp duration=64 > elapsed=17 (2025-02-01 to present)",
+    "Profile experience is 1.4 years, but career history sums to 5.33 years"
+  ],
+  "CAND_0055792": [
+    "Skill Scrum has proficiency 'expert' but 0 duration_months",
+    "Skill TTS has proficiency 'expert' but 0 duration_months",
+    "Skill LoRA has proficiency 'expert' but 0 duration_months"
+  ],
+  "CAND_0056983": [
+    "Skill Rust has proficiency 'expert' but 0 duration_months",
+    "Skill Next.js has proficiency 'expert' but 0 duration_months",
+    "Skill Redis has proficiency 'expert' but 0 duration_months",
+    "Skill Salesforce CRM has proficiency 'expert' but 0 duration_months",
+    "Skill MongoDB has proficiency 'expert' but 0 duration_months"
+  ],
+  "CAND_0057711": [
+    "Job at Capgemini duration=140 > elapsed=52 (2022-03-19 to present)",
+    "Profile experience is 7.7 years, but career history sums to 15.00 years"
+  ],
+  "CAND_0060642": [
+    "Skill Milvus has proficiency 'expert' but 0 duration_months",
+    "Skill Agile has proficiency 'expert' but 0 duration_months",
+    "Skill Azure has proficiency 'expert' but 0 duration_months",
+    "Skill Diffusion Models has proficiency 'expert' but 0 duration_months",
+    "Skill MongoDB has proficiency 'expert' but 0 duration_months"
+  ],
+  "CAND_0061722": [
+    "Skill Terraform has proficiency 'expert' but 0 duration_months",
+    "Skill GANs has proficiency 'expert' but 0 duration_months",
+    "Skill Milvus has proficiency 'expert' but 0 duration_months",
+    "Skill MongoDB has proficiency 'expert' but 0 duration_months",
+    "Skill Speech Recognition has proficiency 'expert' but 0 duration_months"
+  ],
+  "CAND_0063888": [
+    "Skill Project Management has proficiency 'expert' but 0 duration_months",
+    "Skill Accounting has proficiency 'expert' but 0 duration_months",
+    "Skill MLOps has proficiency 'expert' but 0 duration_months",
+    "Skill React has proficiency 'expert' but 0 duration_months",
+    "Skill Webpack has proficiency 'expert' but 0 duration_months"
+  ],
+  "CAND_0064077": [
+    "Job at Hooli duration=169 > elapsed=52 (2022-03-19 to present)",
+    "Profile experience is 10.1 years, but career history sums to 19.75 years"
+  ],
+  "CAND_0065096": [
+    "Skill ETL has proficiency 'expert' but 0 duration_months",
+    "Skill Tally has proficiency 'expert' but 0 duration_months",
+    "Skill Flask has proficiency 'expert' but 0 duration_months",
+    "Skill Rust has proficiency 'expert' but 0 duration_months"
+  ],
+  "CAND_0065710": [
+    "Job at Hooli duration=100 > elapsed=39 (2023-04-13 to present)",
+    "Profile experience is 4.4 years, but career history sums to 9.50 years"
+  ],
+  "CAND_0070189": [
+    "Job at Wayne Enterprises duration=130 > elapsed=40 (2023-03-14 to present)",
+    "Profile experience is 6.9 years, but career history sums to 14.42 years"
+  ],
+  "CAND_0070429": [
+    "Skill MLOps has proficiency 'expert' but 0 duration_months",
+    "Skill Figma has proficiency 'expert' but 0 duration_months",
+    "Skill Accounting has proficiency 'expert' but 0 duration_months",
+    "Skill YOLO has proficiency 'expert' but 0 duration_months",
+    "Skill Java has proficiency 'expert' but 0 duration_months"
+  ],
+  "CAND_0072379": [
+    "Skill Azure has proficiency 'expert' but 0 duration_months",
+    "Skill Redux has proficiency 'expert' but 0 duration_months",
+    "Skill Illustrator has proficiency 'expert' but 0 duration_months",
+    "Skill Spark has proficiency 'expert' but 0 duration_months"
+  ],
+  "CAND_0073853": [
+    "Skill CI/CD has proficiency 'expert' but 0 duration_months",
+    "Skill Marketing has proficiency 'expert' but 0 duration_months",
+    "Skill GCP has proficiency 'expert' but 0 duration_months",
+    "Skill Excel has proficiency 'expert' but 0 duration_months",
+    "Skill AWS has proficiency 'expert' but 0 duration_months"
+  ],
+  "CAND_0077239": [
+    "Job at Dunder Mifflin duration=139 > elapsed=50 (2022-05-18 to present)",
+    "Profile experience is 7.6 years, but career history sums to 15.00 years"
+  ],
+  "CAND_0084182": [
+    "Job at Hooli duration=200 > elapsed=52 (2022-03-19 to present)",
+    "Profile experience is 12.7 years, but career history sums to 24.92 years"
+  ],
+  "CAND_0093364": [
+    "Job at Globex Inc duration=142 > elapsed=27 (2024-04-07 to present)",
+    "Profile experience is 7.9 years, but career history sums to 17.50 years"
+  ],
+  "CAND_0093547": [
+    "Profile experience is 2.9 years, but career history sums to 6.17 years"
+  ],
+  "CAND_0095140": [
+    "Skill Kafka has proficiency 'expert' but 0 duration_months",
+    "Skill QLoRA has proficiency 'expert' but 0 duration_months",
+    "Skill CNN has proficiency 'expert' but 0 duration_months"
+  ],
+  "CAND_0095317": [
+    "Skill Webpack has proficiency 'expert' but 0 duration_months",
+    "Skill Figma has proficiency 'expert' but 0 duration_months",
+    "Skill dbt has proficiency 'expert' but 0 duration_months"
+  ],
+  "CAND_0095480": [
+    "Skill Agile has proficiency 'expert' but 0 duration_months",
+    "Skill React has proficiency 'expert' but 0 duration_months",
+    "Skill Snowflake has proficiency 'expert' but 0 duration_months",
+    "Skill Content Writing has proficiency 'expert' but 0 duration_months"
+  ]
+}
